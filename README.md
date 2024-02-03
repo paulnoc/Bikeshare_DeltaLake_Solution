@@ -4,8 +4,6 @@
 
 The goal of this project is to develop a delta lake solution using a lake house architecture on Azure Databricks 
 
-The goal of this project is to employ Azure Synapse Analytics in developing a data warehouse solution for the Divvy bike sharing program in Chicago, Illinois USA. 
-
 ### Delta Lake Solution with Azure Databricks
 
 In this project, Azure Databricks was used create Bronze and Silver data stores. Finally, the data was transformed into a star schema for a Gold data store. 
