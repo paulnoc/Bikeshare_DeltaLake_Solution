@@ -6,7 +6,7 @@ The goal of this project is to develop a delta lake solution using a lake house 
 
 ### Delta Lake Solution with Azure Databricks
 
-In this project, Azure Databricks was used create Bronze and Silver data stores. Finally, the data was transformed into a star schema for a Gold data store. 
+In this project, Azure Databricks was used to create Bronze and Silver data stores. Finally, the data was transformed into a star schema for a Gold data store. 
 
 ### Business Requirements
 
